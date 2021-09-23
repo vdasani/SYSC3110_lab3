@@ -28,7 +28,7 @@ public class BuddyInfo {
 
     public static void main(String[] args) {
         BuddyInfo buddy = new BuddyInfo();
-        buddy.name = "Vishesh";
+        buddy.name = "Vishesh.";
         System.out.println("Hello "+ buddy.getName());
     }
 }
