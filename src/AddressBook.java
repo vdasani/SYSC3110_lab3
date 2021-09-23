@@ -16,6 +16,10 @@ public class AddressBook {
         }
     }
 
+    public void test () {
+        System.out.println("test");
+    }
+
     public static void main(String[] args) {
         BuddyInfo buddy= new BuddyInfo("Christina", "Ottawa", "123456779");
         AddressBook addressBook = new AddressBook();
